@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+
+body {
+    background: #fff;
+    color: #000000;
+   // font: 300 87.5%/1.5em 'Open Sans', sans-serif;
+   font-family: 'Didact Gothic', sans-serif;
+}
+
+.form-box {
+	margin-top: 30px;
+	background-color: #CCCCFF;
+	border-radius: 7px;
+}
+
+.modal-body {
+	height: 425px;
+}
