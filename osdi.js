@@ -48,7 +48,7 @@ var osdiServers = [
 	},
 	{
 		"name" : "VAN",
-		"signup_uri" : "http://salsa.demo.osdi.io/proxy/van/person_signup_helper"
+		"signup_uri" : "http://van.demo.osdi.io/proxy/van/person_signup_helper"
 	},
 	{
 		"name" : "Trilogy",
