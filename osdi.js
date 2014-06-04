@@ -10,10 +10,10 @@ grab form, then pull fields
 
 
 function testFill() {
-	 $("#osdi-email").val("kermit@defrog.com");
-  $("#osdi-given-name").val("Kermit");
-  $("#osdi-family-name").val("De Frog");
-  $("#osdi-mobile-phone").val("2125551212");
+	 $("#osdi-email").val("joe@biden.com");
+  $("#osdi-given-name").val("Joe");
+  $("#osdi-family-name").val("Biden");
+  $("#osdi-mobile-phone").val("2125551213");
   $("#osdi-address1").val("401 I St. SW");
   $("#osdi-locality").val("Washington");
   $("#osdi-region").val('DC');
@@ -52,7 +52,7 @@ var osdiServers = [
 	},
 	{
 		"name" : "Trilogy",
-		"signup_uri" : "http://trilogy.demo.osdi.io/api/v1/person_signup_helper"
+		"signup_uri" : "http://dev-forms.trilogyinteractive.com/api/osdi/person_signup_helper"
 	}
 		
 ];
